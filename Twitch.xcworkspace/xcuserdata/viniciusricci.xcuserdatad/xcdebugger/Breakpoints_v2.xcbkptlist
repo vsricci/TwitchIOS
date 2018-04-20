@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Twitch/Controller/ViewController.swift"
+            timestampString = "545930519.7696429"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "getTopGames(url:limit:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Twitch.ViewController.getTopGames(url: Swift.String) -&gt; ()"
+                  moduleName = "Twitch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/viniciusricci/Documents/ProjectsSwifts/SwiftProjects/Twitch/Twitch/Controller/ViewController.swift"
+                  timestampString = "545894834.456802"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Int&gt;) -&gt; () in Twitch.ViewController.getTopGames(url: Swift.String) -&gt; ()"
+                  moduleName = "Twitch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/viniciusricci/Documents/ProjectsSwifts/SwiftProjects/Twitch/Twitch/Controller/ViewController.swift"
+                  timestampString = "545894834.460034"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "33">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
